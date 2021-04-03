@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm currently working at [Kontur](kontur.ru)
+I work at [Kontur](kontur.ru)
 
-Supporting websites for twitter `*underhood` accounts:
+Was supporting websites for twitter `*underhood` accounts for some time:
 
-🍳  [produnderhood](produnderhood.ru)
+🍳  [produnderhood](produnderhood.github.io)
 
-📱  [mobileunderhood](mobileunderhood.ru)
+📱  [mobileunderhood](mobileunderhood.github.io)
 
 <!--
 **AgapovOne/AgapovOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
