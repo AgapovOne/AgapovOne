@@ -2,6 +2,10 @@
 
 I work at [Kontur](kontur.ru)
 
+My blog: [agapovone](https://agapovone.github.io)
+
+Write me on telegram: [agapov_one](https://t.me/agapov_one)
+
 Was supporting websites for twitter `*underhood` accounts for some time:
 
 🍳  [produnderhood](produnderhood.github.io)
