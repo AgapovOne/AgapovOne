@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👷 I work at [Kontur](kontur.ru)
+👷 I work at [Aviasales](https://www.aviasales.ru/about/ru/work)
 
 📝 My blog: [agapovone](https://agapovone.github.io)
 
