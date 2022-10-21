@@ -2,7 +2,9 @@
 
 👷 I work at [Aviasales](https://www.aviasales.ru/about/ru/work)
 
-📝 My blog: [agapovone](https://agapovone.github.io)
+📃 My blog: [agapovone](https://agapovone.github.io)
+
+📝 CV: https://agapovone.github.io/cv.pdf
 
 📬 Telegram: [agapov_one](https://t.me/agapov_one)
 
