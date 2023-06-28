@@ -10,4 +10,4 @@
 
 🎙 Made 1 workshop on [iOS Development with SwiftUI and KMM at Kontur in Nov, 2021](https://youtu.be/WMRFMPwwUuo?t=16825)
 
-🎤 [Functional Core Imperative Shell talk materials]https://github.com/AgapovOne/blog/blob/main/talks/fcis/README.md()
+🎤 [Functional Core Imperative Shell talk materials](https://github.com/AgapovOne/blog/blob/main/talks/fcis/README.md)
