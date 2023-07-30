@@ -4,7 +4,7 @@
 
 📃 My blog: [agapovone](https://agapovone.github.io)
 
-📝 CV: https://agapovone.github.io/cv.pdf
+📝 CV: [PDF file ](https://github.com/AgapovOne/blog/blob/main/cv.pdf)
 
 📬 Telegram: [agapov_one](https://t.me/agapov_one)
 
