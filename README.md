@@ -2,7 +2,7 @@
 
 👷 I work at [Aviasales](https://www.aviasales.ru/about/ru/work)
 
-📃 My blog: [agapovone](https://agapovone.github.io)
+📃 My [blog](https://github.com/AgapovOne/blog)
 
 📝 CV: [PDF file ](https://github.com/AgapovOne/blog/blob/main/cv.pdf)
 
