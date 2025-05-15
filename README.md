@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👷 I work at [Aviasales](https://www.aviasales.ru/about/ru/work)
+👷 I work at [Aviasales](https://www.aviasales.com)
 
 📃 My [blog](https://github.com/AgapovOne/blog)
 
